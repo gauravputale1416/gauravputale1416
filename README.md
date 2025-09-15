@@ -2,7 +2,8 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Gaurav and I'm a Undergraduate ,from Nagpur University</h2>
+<h2 align="center">Hi 👋....
+  My name is Gaurav and I'm a Undergraduate , from Nagpur University</h2>
 
 ###
 
