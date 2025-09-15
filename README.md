@@ -27,7 +27,7 @@
 
 ###
 # 💫 About Me:
- i study full stack webdev
+# I study full stack webdevlopment...
 
 
 # 💻 Tech Stack:
